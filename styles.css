@@ -10,7 +10,9 @@
     display: flex;
     color: white;
     background-color: #1F2937;
-    margin: -10px;
+    margin-top: -10px;
+    margin-left: -10px;
+    margin-right: -8px;
 }
 
 .headerbuttons {
@@ -42,4 +44,5 @@ a {
     padding-left: 100%;
     margin-left: -10px;
     padding-bottom: 175px;
-}
+    padding-right: 18px;
+} 
