@@ -1,0 +1,45 @@
+@font-face {
+    font-family: "AwanZaman-Regular";
+    src: url("https://db.onlinewebfonts.com/t/1f75154643c08ae550c78c5ba92ba8f8.eot");
+    src: url("https://db.onlinewebfonts.com/t/1f75154643c08ae550c78c5ba92ba8f8.eot?#iefix")format("embedded-opentype"),
+    url("https://db.onlinewebfonts.com/t/1f75154643c08ae550c78c5ba92ba8f8.woff2")format("woff2"),
+    url("https://db.onlinewebfonts.com/t/1f75154643c08ae550c78c5ba92ba8f8.woff")format("woff")
+}
+
+.header {
+    display: flex;
+    color: white;
+    background-color: #1F2937;
+    margin: -10px;
+}
+
+.headerbuttons {
+    display: flex;
+    list-style-type: none;
+    margin-top: 30px;
+    margin-left: auto;
+    margin-right: 250px;
+    gap: 20px;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.logo {
+    margin-left: 250px;
+    margin-top: 25px;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif
+}
+
+a {
+    text-decoration: none;
+    color: lightgray
+  }
+  
+.firstsection {
+    padding: 25%;
+    background-color: #1F2937;
+    padding-left: 100%;
+    margin-left: -10px;
+    padding-bottom: 175px;
+}
