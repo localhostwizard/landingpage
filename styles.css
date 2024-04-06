@@ -179,6 +179,9 @@ img {
 .quotesection {
     background-color: #E5E7EB;
     min-height: 450px;
+    margin-top: -10px;
+    margin-left: -10px;
+    margin-right: -8px;
 }
 
 .quote {
@@ -259,4 +262,18 @@ img {
 .textstuffbox .boxtext {
     margin-top: -20px;
     color: rgb(230, 230, 230);
+}
+
+.footer {
+    display: flex;
+    justify-content: center;
+    flex: 1;
+    color: white;
+    background-color: #1F2937;
+    margin-top: -10px;
+    margin-left: -10px;
+    margin-right: -8px;
+    margin-bottom: -10px;
+    padding-bottom: 20px;
+    padding-top: 20px;
 }
