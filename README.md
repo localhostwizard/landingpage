@@ -9,3 +9,5 @@ To approach this assignment. I coded each HTML portion first and then finished t
 
 ## Live preview
 [Live](https://localhostwizard.github.io/landingpage/)
+
+⚠️ Warning: Website is not mobile friendly as it was not a requirment to make it. ⚠️
