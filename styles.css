@@ -179,8 +179,6 @@ img {
 .quotesection {
     background-color: #E5E7EB;
     min-height: 450px;
-    align-items: center;
-    justify-content: center;
 }
 
 .quote {
@@ -188,7 +186,6 @@ img {
     margin-left: auto;
     margin-right: auto;
     max-width: 800px;
-    justify-content: center;
     padding-top: 90px;
     flex-direction: column;
 }
@@ -200,13 +197,66 @@ img {
     font-family: "TTCommons-LightItalic"; 
     min-width: 750px;
     max-width: 750px;
+    margin-left: 25px;
+
 }
 
 .quoteby {
     display: flex;
     margin-right: auto;
-    margin-left: 1000px;
+    margin-left: 1025px;
     margin-top: -25px;
     font-size: 18px;
     font-weight: 1000;
+}
+
+.lastsection {
+    display: flex;
+    padding: 125px;
+    justify-content: center;
+}
+
+.box {
+    background-color: #3882F6;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    padding-left: 400px;
+    padding-right: 400px;
+    border-radius: 10px;
+    margin-left: -100px;
+}
+
+.button {
+    display: flex;
+    margin-left: -100px;
+    align-items: center;
+    margin-left: -220px;
+}
+
+.button button {
+    height: 35px;
+    width: 125px;
+    cursor: pointer;
+    border: 2px solid white;
+    color: inherit;
+    background: none;
+    color: white;
+    border-radius: 5px;
+    font-size: 15px;
+    font-weight: 1000;
+}
+
+.textstuffbox {
+    margin-left: -300px;
+    color: white;
+}
+
+.textstuffbox .boxtitle {
+    font-weight: 600;
+    font-size: 20px;
+}
+
+.textstuffbox .boxtext {
+    margin-top: -20px;
+    color: rgb(230, 230, 230);
 }
